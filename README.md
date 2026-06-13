@@ -5,7 +5,16 @@ Solana, API platforms, Kubernetes, production systems.
 
 I build backend and infrastructure systems where correctness, reliability, and deployment discipline matter.
 
+## Focus
+
+- Rust backend systems
+- Solana infrastructure
+- API platforms and integrations
+- Kubernetes, Helm, and production delivery
+
 ## Engineering Telemetry
+
+Updated automatically from GitHub contribution data.
 
 <!-- telemetry:start -->
 GitHub activity snapshot · `2026-06-14`
