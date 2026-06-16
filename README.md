@@ -1,6 +1,6 @@
 # Tigran Zhampeissov
 
-**Senior Rust Backend & DevOps Engineer**  
+**Rust Backend & DevOps Engineer**  
 Solana, API platforms, Kubernetes, production systems.
 
 I build backend and infrastructure systems where correctness, reliability, and deployment discipline matter.
