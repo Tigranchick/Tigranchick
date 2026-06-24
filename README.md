@@ -17,13 +17,13 @@ I build backend and infrastructure systems where correctness, reliability, and d
 Updated automatically from GitHub contribution data.
 
 <!-- telemetry:start -->
-GitHub activity snapshot · `2026-06-24`
+GitHub activity snapshot · `2026-06-25`
 
 | Window | Contributions | Active days | Peak day |
 | --- | ---: | ---: | --- |
-| Last 7 days | 2 | 2 | 1 (2026-06-17) |
-| Last 30 days | 330 | 24 | 47 (2026-05-25) |
-| Last 12 months | 1,921 | 281 | 50 (2025-11-23) |
+| Last 7 days | 3 | 2 | 2 (2026-06-24) |
+| Last 30 days | 285 | 24 | 35 (2026-06-10) |
+| Last 12 months | 1,922 | 281 | 50 (2025-11-23) |
 <!-- telemetry:end -->
 
 <!--
