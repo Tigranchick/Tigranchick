@@ -1,55 +1,47 @@
-# Tigran Zhampeissov
+<h1 align="center">Tigran Zhampeissov</h1>
 
-**Rust Backend & Infrastructure Engineer**
+<p align="center">
+  <img alt="Profile headline" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=780&lines=Rust+Backend+%2F+Full-Stack+Engineer;Production+APIs+%7C+Kubernetes+%7C+CI%2FCD;Vue+%7C+Nuxt+%7C+Solana" />
+</p>
 
-Production APIs, integration-heavy systems, Kubernetes delivery, and Solana infrastructure.
+**Rust Backend / Full-Stack Engineer**
 
-I build backend and infrastructure systems where correctness, operational discipline, and maintainability matter more than fashionable complexity.
+Production APIs, Vue/Nuxt dashboards, Kubernetes delivery, CI/CD, and Solana infrastructure.
 
-<p>
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
-  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white">
-  <img alt="Solana" src="https://img.shields.io/badge/Solana-111111?style=flat&logo=solana&logoColor=14F195">
+I build full-stack product systems where backend correctness, operational discipline, and maintainable delivery matter more than fashionable complexity.
+
+<p align="center">
+  <img alt="Full-Stack" src="https://img.shields.io/badge/Full--Stack-Engineer-111111?style=for-the-badge">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img alt="Solana" src="https://img.shields.io/badge/Solana-111111?style=for-the-badge&logo=solana&logoColor=14F195">
 </p>
 
 ## What I Work On
 
+- Full-stack product development where backend and infrastructure are the critical parts.
 - Backend services in Rust for APIs, workflows, and integration-heavy products.
-- Production delivery with Docker, Kubernetes, Helm, and GitHub Actions.
+- Frontend dashboards and admin tools with TypeScript, Vue, Nuxt, and Next.js.
+- Production delivery with Docker, Kubernetes, Helm, GitHub Actions, and CI/CD pipelines.
 - PostgreSQL-backed systems where data correctness and migrations matter.
 - Solana programs, infrastructure, and blockchain-adjacent backend components.
-- Admin dashboards and operational tooling with TypeScript, Vue/Nuxt, and Next.js.
 
 ## Stack
 
 | Area | Tools |
 | --- | --- |
 | Backend | Rust, Tokio, REST APIs, OpenAPI, async integrations |
+| Frontend | TypeScript, Vue, Nuxt, Next.js, admin dashboards |
 | Data | PostgreSQL, migrations, import pipelines, validation-heavy workflows |
 | Infrastructure | Linux, Docker, Kubernetes, Helm, GitHub Actions |
-| Frontend tooling | TypeScript, Vue, Nuxt, Next.js |
+| Delivery | CI/CD pipelines, container builds, production rollouts |
 | Blockchain | Solana programs, Rust, RPC/service integrations |
-
-## Selected Public Work
-
-Most current production work is private. These public repositories show parts of the stack and engineering direction:
-
-| Repository | Notes |
-| --- | --- |
-| [iiko_client_rs](https://github.com/Tigranchick/iiko_client_rs) | Rust client work around the iikoCloud API. |
-| [yc_speechkit_tonic](https://github.com/Tigranchick/yc_speechkit_tonic) | Rust gRPC client for Yandex Cloud SpeechKit. |
-| [tspider](https://github.com/Tigranchick/tspider) | Web crawler and scraper work in Rust. |
-| [rustus](https://github.com/Tigranchick/rustus) | TUS protocol implementation in Rust. |
-
-## Engineering Style
-
-- Prefer explicit contracts, typed boundaries, and narrow changes over vague abstractions.
-- Treat deployments as part of the feature, not as an afterthought.
-- Verify production behavior with real logs, health checks, database state, and rollout status.
-- Keep private customer and product details out of public profile content.
 
 ## Engineering Telemetry
 
