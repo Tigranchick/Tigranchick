@@ -48,13 +48,13 @@ I build full-stack product systems where backend correctness, operational discip
 Updated automatically from GitHub contribution data.
 
 <!-- telemetry:start -->
-GitHub activity snapshot · `2026-06-30`
+GitHub activity snapshot · `2026-07-01`
 
 | Window | Contributions | Active days | Peak day |
 | --- | ---: | ---: | --- |
-| Last 7 days | 45 | 7 | 14 (2026-06-25) |
-| Last 30 days | 275 | 26 | 35 (2026-06-10) |
-| Last 12 months | 1,972 | 286 | 50 (2025-11-23) |
+| Last 7 days | 40 | 7 | 14 (2026-06-25) |
+| Last 30 days | 274 | 26 | 35 (2026-06-10) |
+| Last 12 months | 1,973 | 287 | 50 (2025-11-23) |
 <!-- telemetry:end -->
 
 <!--
